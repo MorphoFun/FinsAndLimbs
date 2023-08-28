@@ -1,6 +1,6 @@
 # Safety Procedures in the Kawano Lab #
-**Location:** SEH 4100 and Bell 304 <br>
-**PI:** Dr. Sandy Kawano
+- **Location:** SEH 4100 and Bell 304 
+- **PI:** Dr. Sandy Kawano
 
 ## Section A: New Authorized Personnel ##
 1. “Authorized Personnel” are those who have key access to the labs.
