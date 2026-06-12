@@ -11,7 +11,7 @@
 
 1. Start with the instructions under  "Access your storage system from a Mac computer" on the following link: [https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac](https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac)
 2. The SMB path is SMB://172.28.201.151/Research_LabFiles
-3. Enter the username and password that was assigned to you in a separate email (note: your email address is NOT your username)
+3. Enter the username and password that was assigned to you in a separate email from Dr. Sandy Kawano (note: your email address is NOT your username). 
 
 
 #### PCs
