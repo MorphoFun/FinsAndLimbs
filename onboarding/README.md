@@ -1,9 +1,9 @@
 ## Onboarding for new members of the lab
-
+<p>
 #### Adding a newtork printer to your computer
 1. Follow the instructiosn for Macs [https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or PCs [https://sscs.uchicago.edu/add-network-printer-windows10/](https://sscs.uchicago.edu/add-network-printer-windows10/)
 2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
-
+</p>
 
 #### Mapping a network drive onto your computer desktop
 
