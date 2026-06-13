@@ -16,7 +16,7 @@
 
 #### PCs
 1. Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
-2. The path to the shared network folder is "\\172.28.201.151\Research_LabFiles"
+2. The path to the shared network folder is \\\172.28.201.151\Research_LabFiles
 
 
 '
