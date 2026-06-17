@@ -16,7 +16,7 @@
 #### PCs
 1. Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
 2. The path to the shared network folder is \\\172.28.201.151\Research_LabFiles
-
+<br>
 
 ### How to create a document with Google Docs/Slides/Spreadsheet/etc. on Synology NAS
 Instructions provided by Google AI Overview and [https://www.youtube.com/watch?v=QTInhv8esXs](https://www.youtube.com/watch?v=QTInhv8esXs).
