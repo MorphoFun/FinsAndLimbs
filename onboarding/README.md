@@ -4,7 +4,7 @@
 1. [Training: General lab](#training-general-lab)
 2. [Training: Live animals](#training-live-animals)
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
-4. [IT: Connecting to lab server](#it-connecting-to-lab-server)
+4. [IT: Connecting to the lab server](#it-connecting-to-the-lab-server)
 
 ---
 ### Training
