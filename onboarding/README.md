@@ -19,10 +19,9 @@ Before working in the research lab, you must complete the following training mod
 4. [Fire Safety - Fire Safety in Labs, Shops, & Studios](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=V9.AD56NFGE45)
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
-<br><hr>
 
-[▲ Back to Top](#onboarding-for-lab-members)  
-[▲ Back to Top](#table-of-contents)
+[▲ Back to Top](#table-of-contents)  
+<br>  
 
 #### Training: live animals
 If you will be working with live vertebrate animals, you must also be an approved animal handler on Dr. Kawano's animal care and use protocol at the Unviersity of Virginia (UVA). You are NOT permitted to enter the animal facility until you receive confirmation that you are an approved animal handler from UVA's Animal Care and Use Committee (ACUC) _and_ you complete in-person training sessions with Dr. Kawano. 
@@ -44,19 +43,25 @@ If you will be working with live vertebrate animals, you must also be an approve
     -  Question: Do you require annual respirator training/fit testing? Answer: NO
     -  Question: Are you listed on a Center for Comparative Medicine Health Program IACUC protocol? Answer: NO
     -  Most personnel click on _"I will complete UVA's web-based Medical Questionnaire (designed to assess risk and major health changes) in order to attempt completion of my Health Assessment electronically online."_ However, you should check in with your General Physician to assess whether they would recommend a face-to-face (in-person) health assessment with UVA's Health Care Professional, especially if you have one or more underlying medication conditions that could be affected by working with live vertebrate animals.
-7. You will receive an email from the UVA ACUC once your Animal Handler documentation has been completed. Please email Dr. Kawano to schedule a time to complete the in-person, lab-specific animal care training for our lab. 
-<br>
+7. You will receive an email from the UVA ACUC once your Animal Handler documentation has been completed. Please email Dr. Kawano to schedule a time to complete the in-person, lab-specific animal care training for our lab.
+
+[▲ Back to Top](#table-of-contents)
+<br>  
   
 ### Information technology (IT)
 #### IT: Connecting to a printer
 1. Follow the instructions for [Macs](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or [PCs](https://sscs.uchicago.edu/add-network-printer-windows10/)
-2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
-<br>
+2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)  
+  
+[▲ Back to Top](#table-of-contents)
+<br>  
 
 #### IT: Connecting to the lab server
 We save our lab files in two formats: physically on a hard drive and electronically on an online cloud platform (i.e., Synology). After Dr. Kawano sends your account information, you can log into the lab server by navigating to [https://finsandlimbs.us1.quickconnect.to/](https://finsandlimbs.us1.quickconnect.to/).  
-**Important** Materials on our lab server CANNOT shared with others, unless you receive written consent from Dr. Kawano (and/or the lab member if the materials are saved under their individual folder). 
-<br>
+**Important** Materials on our lab server CANNOT shared with others, unless you receive written consent from Dr. Kawano (and/or the lab member if the materials are saved under their individual folder).   
+
+[▲ Back to Top](#table-of-contents)
+<br>  
 
 #### IT: Mapping the lab server to your computer
 Connecting to the lab server through a web browser is convenient when you want to upload/download a few files, but most times it's more useful to map the server as a network drive on your personal computer. 
@@ -74,8 +79,10 @@ Connecting to the lab server through a web browser is convenient when you want t
 9**. PC (Windows) users**
     - Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
     - The path to the shared network folder is \\10.8.0.1\Research_LabFiles
-    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
-<br>
+    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano.  
+ 
+[▲ Back to Top](#table-of-contents)
+<br>  
 
 #### IT: How to create Google-like docs with Synology
 Missing Google Docs / Slides / Spreadsheet? Synology doesn't directly connect to Google Drive, but we can create similar documents through Synology Office.
@@ -87,3 +94,6 @@ Instructions provided by Google AI Overview and [https://www.youtube.com/watch?v
 6. Open the Synology Drive app by clicking on the Main Menu (the grid icon on the top-left corner of the browser).
 7. Navigate to the folder where you want to create a new document. 
 8. Click the + Create button, and select Document to start typing and collaborating securely through our lab server.  
+
+[▲ Back to Top](#table-of-contents)
+<br>  
