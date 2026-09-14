@@ -6,7 +6,7 @@
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
 4. [IT: Connecting to the lab server](#it-connecting-to-the-lab-server)
 5. [IT: Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)
-6. [IT: How to create Google-like docs with Synology](#it-how-to-create-google-like-docs-with-synology)
+6. [IT: How to create Google-like docs with Synology](#it-how-to-create-google--like-docs-with-synology)
 <br>
 
 ---
