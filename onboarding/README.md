@@ -40,7 +40,7 @@ If you will be working with live vertebrate animals, you must also be an approve
 
   
 
-#### IT: Conecting to a printer
+#### IT: Connecting to a printer
 1. Follow the instructions for [Macs](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or [PCs](https://sscs.uchicago.edu/add-network-printer-windows10/)
 2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
 <br>
