@@ -1,12 +1,13 @@
 ## Onboarding for new members of the lab
 
 ### Table of Contents
-1. [General training](#general-training)
-2. [Animal care training](#animal-care-training)
+1. [Training: General lab](#training-general-lab)
+2. [Training: Live animals](#training-live-animals)
+3. [IT: Connecting to a network printer](#it-connecting-to-a-network-printer)
 
 ---
 
-#### General training
+#### Training: General Lab
 Before working in the research lab, you must complete the following training modules and then email Dr. Kawano when you are done. Additional training modules may be required depending on your research project. 
 1. [Chemical Safety and Waste Training for Research Personnel & Students](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=O4.KOPWTZDFDT)
 2. [Chemical Safety - Formaldehyde Awareness](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=K693.4.74K9ANEWV234PUFNA) 
@@ -15,7 +16,7 @@ Before working in the research lab, you must complete the following training mod
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
 
-#### Animal care training
+#### Training: live animals
 If you will be working with live vertebrate animals, you must also be an approved animal handler on Dr. Kawano's animal care and use protocol at the Unviersity of Virginia (UVA). You are NOT permitted to enter the animal facility until you receive confirmation that you are an approved animal handler from UVA's Animal Care and Use Committee (ACUC) _and_ you complete in-person training sessions with Dr. Kawano. 
 1. Refer to "[Becoming an animal handler](https://compliance.research.virginia.edu/about/training/animal-research-training)" for the general overview of the training requirements.
 2. Access the online [Animal Handler Access Portal](https://compliance.research.virginia.edu/about/training/animal-research/animal-research-online-training)
@@ -39,7 +40,7 @@ If you will be working with live vertebrate animals, you must also be an approve
 
   
 
-#### Adding a newtork printer to your computer
+#### IT: Conecting to a newtork printer
 1. Follow the instructions for [Macs](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or [PCs](https://sscs.uchicago.edu/add-network-printer-windows10/)
 2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
 <br>
