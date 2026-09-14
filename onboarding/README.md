@@ -5,6 +5,8 @@
 2. [Training: Live animals](#training-live-animals)
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
 4. [IT: Connecting to the lab server](#it-connecting-to-the-lab-server)
+5. [IT: Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)
+<br>
 
 ---
 ### Training
@@ -16,6 +18,7 @@ Before working in the research lab, you must complete the following training mod
 4. [Fire Safety - Fire Safety in Labs, Shops, & Studios](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=V9.AD56NFGE45)
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
+<br>
 
 #### Training: live animals
 If you will be working with live vertebrate animals, you must also be an approved animal handler on Dr. Kawano's animal care and use protocol at the Unviersity of Virginia (UVA). You are NOT permitted to enter the animal facility until you receive confirmation that you are an approved animal handler from UVA's Animal Care and Use Committee (ACUC) _and_ you complete in-person training sessions with Dr. Kawano. 
@@ -38,7 +41,7 @@ If you will be working with live vertebrate animals, you must also be an approve
     -  Question: Are you listed on a Center for Comparative Medicine Health Program IACUC protocol? Answer: NO
     -  Most personnel click on _"I will complete UVA's web-based Medical Questionnaire (designed to assess risk and major health changes) in order to attempt completion of my Health Assessment electronically online."_ However, you should check in with your General Physician to assess whether they would recommend a face-to-face (in-person) health assessment with UVA's Health Care Professional, especially if you have one or more underlying medication conditions that could be affected by working with live vertebrate animals.
 7. You will receive an email from the UVA ACUC once your Animal Handler documentation has been completed. Please email Dr. Kawano to schedule a time to complete the in-person, lab-specific animal care training for our lab. 
-
+<br>
   
 ### Information technology (IT)
 #### IT: Connecting to a printer
@@ -49,8 +52,9 @@ If you will be working with live vertebrate animals, you must also be an approve
 #### IT: Connecting to the lab server
 We save our lab files in two formats: physically on a hard drive and electronically on an online cloud platform. After Dr. Kawano sends your account information, you can log into the lab server by navigating to [https://finsandlimbs.us1.quickconnect.to/](https://finsandlimbs.us1.quickconnect.to/).  
 **Important** Materials on our lab server CANNOT shared with others, unless you receive written consent from Dr. Kawano (and/or the lab member if the materials are saved under their individual folder). 
+<br>
 
-#### Mapping a network drive onto your computer desktop
+#### IT: Mapping the lab server to your computer
 Connecting to the lab server through a web browser is convenient when you want to upload/download a few files, but most times it's more useful to map the server as a network drive on your personal computer. 
 1. Download [OpenVPN](https://openvpn.net/client/)
 2. Download the [Tiktaalik_VPNConfig.ovpn] file from our lab server (Research_LabFiles --> _labDocs), and save to your computer
@@ -58,17 +62,15 @@ Connecting to the lab server through a web browser is convenient when you want t
 4. Click connect, and then type in the username and password that you created when logging onto the lab server through your web browser
 5. A window will pop up saying "Missing external certificate". Click on the button "Add Certificate", and then click on the dial next to "Require External Certificate" so the icon changes from mostly blue with white circle to mostly white with blue circle. Click Save Changes.
 6. On the left hand side, click on the icon with three horizontal lines and then click on Settings.
-7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer is on.   
-
-#### Macs
-
-1. Start with the instructions under  "Access your storage system from a Mac computer" on the following link: [https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac](https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac)
-2. The SMB path is SMB://172.28.201.151/Research_LabFiles
-3. Enter the username and password that was assigned to you in a separate email from Dr. Kawano (note: your email address is NOT your username).
-
-#### PCs
-1. Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
-2. The path to the shared network folder is \\\172.28.201.151\Research_LabFiles
+7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer is on.
+8.** Apple (MacOS) users**
+    - Start with the instructions under  "Access your storage system from a Mac computer" on the following link: [https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac](https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac)
+   - The SMB path is SMB://10.8.0.1/Research_LabFiles
+   - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
+9**. PC (Windows) users**
+    - Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
+    - The path to the shared network folder is \\\172.28.201.151\Research_LabFiles
+    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
 <br>
 
 ### How to create a document with Google Docs/Slides/Spreadsheet/etc. on Synology NAS
