@@ -6,6 +6,7 @@
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
 4. [IT: Connecting to the lab server](#it-connecting-to-the-lab-server)
 5. [IT: Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)
+6. [IT: How to create Google-like docs with Synology](#it-how-to-create-google-like-docs-with-synology)
 <br>
 
 ---
@@ -50,7 +51,7 @@ If you will be working with live vertebrate animals, you must also be an approve
 <br>
 
 #### IT: Connecting to the lab server
-We save our lab files in two formats: physically on a hard drive and electronically on an online cloud platform. After Dr. Kawano sends your account information, you can log into the lab server by navigating to [https://finsandlimbs.us1.quickconnect.to/](https://finsandlimbs.us1.quickconnect.to/).  
+We save our lab files in two formats: physically on a hard drive and electronically on an online cloud platform (i.e., Synology). After Dr. Kawano sends your account information, you can log into the lab server by navigating to [https://finsandlimbs.us1.quickconnect.to/](https://finsandlimbs.us1.quickconnect.to/).  
 **Important** Materials on our lab server CANNOT shared with others, unless you receive written consent from Dr. Kawano (and/or the lab member if the materials are saved under their individual folder). 
 <br>
 
@@ -73,9 +74,13 @@ Connecting to the lab server through a web browser is convenient when you want t
     - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
 <br>
 
-### How to create a document with Google Docs/Slides/Spreadsheet/etc. on Synology NAS
+### How to create Google-like docs with Synology
+Missing Google Docs / Slides / Spreadsheet? Synology doesn't directly connect to Google Drive, but we can create similar documents through Synology Office.
 Instructions provided by Google AI Overview and [https://www.youtube.com/watch?v=QTInhv8esXs](https://www.youtube.com/watch?v=QTInhv8esXs).
-1. Log in to your Synology DSM interface.Open the Package Center.
-2. Search for and install Synology Drive Server (which contains the web interface).
-3. Install Synology Office from the Package Center to access web-based document, spreadsheet, and slide editors.
-4. Open the Synology Drive app, click the + Create button, and select Document to start typing and collaborating securely on your NAS.
+1. Log into the lab server.
+2. Open the Package Center.    
+3. Search for and install Synology Drive Server (which contains the web interface).  
+4. Install Synology Office from the Package Center to access web-based document, spreadsheet, and slide editors.
+6. Open the Synology Drive app by clicking on the Main Menu (the grid icon on the top-left corner of the browser).
+7. Navigate to the folder where you want to create a new document. 
+8. Click the + Create button, and select Document to start typing and collaborating securely through our lab server.  
