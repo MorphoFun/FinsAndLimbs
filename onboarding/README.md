@@ -4,9 +4,10 @@
 1. [Training: General lab](#training-general-lab)
 2. [Training: Live animals](#training-live-animals)
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
+4. [IT: Connecting to lab server](#it-connecting-to-lab-server)
 
 ---
-
+### Training
 #### Training: General Lab
 Before working in the research lab, you must complete the following training modules and then email Dr. Kawano when you are done. Additional training modules may be required depending on your research project. 
 1. [Chemical Safety and Waste Training for Research Personnel & Students](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=O4.KOPWTZDFDT)
@@ -39,13 +40,25 @@ If you will be working with live vertebrate animals, you must also be an approve
 7. You will receive an email from the UVA ACUC once your Animal Handler documentation has been completed. Please email Dr. Kawano to schedule a time to complete the in-person, lab-specific animal care training for our lab. 
 
   
-
+### Information technology (IT)
 #### IT: Connecting to a printer
 1. Follow the instructions for [Macs](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or [PCs](https://sscs.uchicago.edu/add-network-printer-windows10/)
 2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
 <br>
 
+#### IT: Connecting to the lab server
+We save our lab files in two formats: physically on a hard drive and electronically on an online cloud platform. After Dr. Kawano sends your account information, you can log into the lab server by navigating to [https://finsandlimbs.us1.quickconnect.to/](https://finsandlimbs.us1.quickconnect.to/).  
+**Important** Materials on our lab server CANNOT shared with others, unless you receive written consent from Dr. Kawano (and/or the lab member if the materials are saved under their individual folder). 
+
 #### Mapping a network drive onto your computer desktop
+Connecting to the lab server through a web browser is convenient when you want to upload/download a few files, but most times it's more useful to map the server as a network drive on your personal computer. 
+1. Download [OpenVPN](https://openvpn.net/client/)
+2. Download the [Tiktaalik_VPNConfig.ovpn] file from our lab server (Research_LabFiles --> _labDocs), and save to your computer
+3. Double-check the Tiktaalik_VPNConfig.ovpn file saved onto your computer, and click "Import" to confirm importing the profile into OpenVPN
+4. Click connect, and then type in the username and password that you created when logging onto the lab server through your web browser
+5. A window will pop up saying "Missing external certificate". Click on the button "Add Certificate", and then click on the dial next to "Require External Certificate" so the icon changes from mostly blue with white circle to mostly white with blue circle. Click Save Changes.
+6. On the left hand side, click on the icon with three horizontal lines and then click on Settings.
+7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer is on.   
 
 #### Macs
 
