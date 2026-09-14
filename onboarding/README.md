@@ -3,7 +3,7 @@
 ### Table of Contents
 1. [Training: General lab](#training-general-lab)
 2. [Training: Live animals](#training-live-animals)
-3. [IT: Connecting to a network printer](#it-connecting-to-a-network-printer)
+3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
 
 ---
 
@@ -40,7 +40,7 @@ If you will be working with live vertebrate animals, you must also be an approve
 
   
 
-#### IT: Conecting to a newtork printer
+#### IT: Conecting to a printer
 1. Follow the instructions for [Macs](https://support.apple.com/guide/mac-help/connect-a-printer-to-your-mac-mh14004/mac) or [PCs](https://sscs.uchicago.edu/add-network-printer-windows10/)
 2. Type in the IP address for the printer (e.g.,  172.28.201.64 for HP Color Laser Jet Enterprise MFP M480 in the Wilbur computer lab)
 <br>
