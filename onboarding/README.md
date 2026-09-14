@@ -2,8 +2,9 @@
 
 ### Table of Contents
 1. [General training](#general-training)
+2. [Animal care training](#animal-care-training)
 
-
+---
 
 #### General training
 Before working in the research lab, you must complete the following training modules and then email Dr. Kawano when you are done. Additional training modules may be required depending on your research project. 
