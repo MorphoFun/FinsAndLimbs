@@ -6,7 +6,7 @@
 3. [IT: Connecting to a printer](#it-connecting-to-a-printer)
 4. [IT: Connecting to the lab server](#it-connecting-to-the-lab-server)
 5. [IT: Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)
-6. [IT: How to create Google-like docs with Synology](#it-how-to-create-google--like-docs-with-synology)
+6. [IT: How to create Google-like docs with Synology](#it-how-to-create-google-like-docs-with-synology)
 <br>
 
 ---
@@ -70,11 +70,11 @@ Connecting to the lab server through a web browser is convenient when you want t
    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
 9**. PC (Windows) users**
     - Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
-    - The path to the shared network folder is \\\172.28.201.151\Research_LabFiles
+    - The path to the shared network folder is \\10.8.0.1\Research_LabFiles
     - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
 <br>
 
-### How to create Google-like docs with Synology
+#### IT: How to create Google-like docs with Synology
 Missing Google Docs / Slides / Spreadsheet? Synology doesn't directly connect to Google Drive, but we can create similar documents through Synology Office.
 Instructions provided by Google AI Overview and [https://www.youtube.com/watch?v=QTInhv8esXs](https://www.youtube.com/watch?v=QTInhv8esXs).
 1. Log into the lab server.
