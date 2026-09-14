@@ -19,8 +19,9 @@ Before working in the research lab, you must complete the following training mod
 4. [Fire Safety - Fire Safety in Labs, Shops, & Studios](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=V9.AD56NFGE45)
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
-<br>
-[▲ Back to Top](#onboarding-for-lab-members)
+<br><hr>
+
+[▲ Back to Top](#onboarding-for-lab-members)  
 [▲ Back to Top](#table-of-contents)
 
 #### Training: live animals
