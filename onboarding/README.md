@@ -1,4 +1,4 @@
-## Onboarding for new members of the lab
+## Onboarding for lab members
 
 ### Table of Contents
 1. [Training: General lab](#training-general-lab)
@@ -20,7 +20,7 @@ Before working in the research lab, you must complete the following training mod
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
 <br>
-[▲ Back to Top](#table-of-contents)
+[▲ Back to Top](#onboarding-for-lab-members)
 
 #### Training: live animals
 If you will be working with live vertebrate animals, you must also be an approved animal handler on Dr. Kawano's animal care and use protocol at the Unviersity of Virginia (UVA). You are NOT permitted to enter the animal facility until you receive confirmation that you are an approved animal handler from UVA's Animal Care and Use Committee (ACUC) _and_ you complete in-person training sessions with Dr. Kawano. 
