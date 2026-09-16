@@ -20,6 +20,8 @@ Before working in the research lab, you must complete the following training mod
 5. [PPE - Eye Protection](https://researchcompliance.web.virginia.edu/training_html5/module_content/071/index.cfm)
 6. [PPE - Glove Selection](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=R43.0.99209)
 
+Click [HERE](https://researchcompliance.web.virginia.edu/oehs/management_training/read_only/data/search_training_records.cfm) to check your training records.
+
 [▲ Back to Top](#table-of-contents)  
 <br>  
 
@@ -44,6 +46,8 @@ If you will be working with live vertebrate animals, you must also be an approve
     -  Question: Are you listed on a Center for Comparative Medicine Health Program IACUC protocol? Answer: NO
     -  Most personnel click on _"I will complete UVA's web-based Medical Questionnaire (designed to assess risk and major health changes) in order to attempt completion of my Health Assessment electronically online."_ However, you should check in with your General Physician to assess whether they would recommend a face-to-face (in-person) health assessment with UVA's Health Care Professional, especially if you have one or more underlying medication conditions that could be affected by working with live vertebrate animals.
 7. You will receive an email from the UVA ACUC once your Animal Handler documentation has been completed. Please email Dr. Kawano to schedule a time to complete the in-person, lab-specific animal care training for our lab.
+
+Click [HERE](https://researchcompliance.web.virginia.edu/oehs/management_training/read_only/data/search_training_records.cfm) to check your training records.  
 
 [▲ Back to Top](#table-of-contents)
 <br>  
