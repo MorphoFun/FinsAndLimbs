@@ -35,7 +35,8 @@
 #### For fun  
 1. [Set up an email alias](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=acad334bdb3ac744f032f1f51d961941), so people don't have to remember the random one that UVA generates.  
 2. [Create a UVA email signature](https://brand.virginia.edu/templates-resources/digital/email-signatures), so you can show your UVA affiliation.   
-3. [Sign up for Free Food Alert](https://sustainability.virginia.edu/free-food-alert) to help reduce food waste (and obviously get free food).  
+3. [Sign up for Free Food Alert](https://sustainability.virginia.edu/free-food-alert) to help reduce food waste (and obviously get free food).
+4. [Sign up for the UVA EEB listserv](https://www.eebvirginia.org/events).  
 
 [▲ Back to Top](#table-of-contents)  
 <br>  
