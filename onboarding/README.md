@@ -2,11 +2,13 @@
 
 ### Table of Contents  
 1. **Lab resources**  
-   a. [Getting started](#getting-started)
-2. **Training**  
+   a. [Getting started in our lab](#getting-started-in-our-lab)  
+   b. [Getting started at UVA](#getting-started-at-UVA)  
+   c. [For fun](#for-fun)  
+3. **Training**  
    a. [General lab](#training-general-lab)  
    b. [Live animals](#training-live-animals)
-3. **Information Technology (IT)**  
+4. **Information Technology (IT)**  
    a. [Connecting to a printer](#it-connecting-to-a-printer)  
    b. [Connecting to the lab server](#it-connecting-to-the-lab-server)  
    c. [Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)  
@@ -15,10 +17,19 @@
 
 ---
 ### Lab resources
-#### Getting started
+#### Getting started in our lab
 1. Fill out your availability each semester: [Fall 2026](https://whenisgood.net/t5mq7r2)  
 2. Complete the [Lab Starter form](https://docs.google.com/forms/d/e/1FAIpQLSf_oR79KD-z1hIAYfJDysNim1lEU1svzSYCwfcd41kZI3bq7A/viewform?usp=sharing&ouid=109973772250957409002)
-3. [Download Asana](https://asana.com/download), and learn how to get started by [watching their videos](https://help.asana.com/s/article/getting-started-video), and [reading through their documentation](https://help.asana.com/s/topic/0TOPc0000003VYlOAM/getting-started).   
+3. [Download Asana](https://asana.com/download), and learn how to get started by [watching their videos](https://help.asana.com/s/article/getting-started-video), and [reading through their documentation](https://help.asana.com/s/topic/0TOPc0000003VYlOAM/getting-started).  
+  
+#### Getting started at UVA  
+1. [Set up Wi-Fi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=24c5c491db095b084f32fb671d9619a0) (eduoroam) on your personal computer.  
+2. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.  
+
+#### For fun  
+1. [Set up an email alias](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=acad334bdb3ac744f032f1f51d961941), so people don't have to remember the random one that UVA generates.  
+2. [Create a UVA email signature](https://brand.virginia.edu/templates-resources/digital/email-signatures), so you can show your UVA affiliation.   
+3. [Sign up for Free Food Alert](https://sustainability.virginia.edu/free-food-alert) to help reduce food waste (and obviously get free food).  
 
 [▲ Back to Top](#table-of-contents)  
 <br>  
