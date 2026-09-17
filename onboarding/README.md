@@ -24,7 +24,8 @@
   
 #### Getting started at UVA  
 1. [Set up Wi-Fi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=24c5c491db095b084f32fb671d9619a0) (eduoroam) on your personal computer.  
-2. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.  
+2. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.
+3. [Download Microsoft Office](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d36122f9db719740f032f1f51d9619f2) for free, using UVA's license. 
 
 #### For fun  
 1. [Set up an email alias](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=acad334bdb3ac744f032f1f51d961941), so people don't have to remember the random one that UVA generates.  
