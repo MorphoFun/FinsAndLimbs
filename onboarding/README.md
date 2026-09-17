@@ -2,8 +2,7 @@
 
 ### Table of Contents  
 1. **Lab resources**  
-   a. Fill out your availability each semester: [Fall 2026](https://whenisgood.net/t5mq7r2)  
-   b. Complete the [Lab Starter form](https://docs.google.com/forms/d/e/1FAIpQLSf_oR79KD-z1hIAYfJDysNim1lEU1svzSYCwfcd41kZI3bq7A/viewform?usp=sharing&ouid=109973772250957409002)  
+   a. [Getting started](#getting-started)
 2. **Training**  
    a. [General lab](#training-general-lab)  
    b. [Live animals](#training-live-animals)
@@ -15,6 +14,15 @@
 <br>
 
 ---
+### Lab resources
+#### Getting started
+1. Fill out your availability each semester: [Fall 2026](https://whenisgood.net/t5mq7r2)  
+2. Complete the [Lab Starter form](https://docs.google.com/forms/d/e/1FAIpQLSf_oR79KD-z1hIAYfJDysNim1lEU1svzSYCwfcd41kZI3bq7A/viewform?usp=sharing&ouid=109973772250957409002)
+3. [Download Asana](https://asana.com/download), and learn how to get started by [watching their videos](https://help.asana.com/s/article/getting-started-video), and [reading through their documentation](https://help.asana.com/s/topic/0TOPc0000003VYlOAM/getting-started).   
+
+[▲ Back to Top](#table-of-contents)  
+<br>  
+
 ### Training
 #### Training: General Lab
 Before working in the research lab, you must complete the following training modules and then email Dr. Kawano when you are done. Additional training modules may be required depending on your research project. 
