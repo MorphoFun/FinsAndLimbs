@@ -23,11 +23,13 @@
 3. [Download Asana](https://asana.com/download), and learn how to get started by [watching their videos](https://help.asana.com/s/article/getting-started-video), and [reading through their documentation](https://help.asana.com/s/topic/0TOPc0000003VYlOAM/getting-started).  
   
 #### Getting started at UVA  
-1. [Sign up for UVA alerts](https://uvaemergency.virginia.edu/uva-alerts).  
-2. [Set up Wi-Fi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=24c5c491db095b084f32fb671d9619a0) (eduoroam) on your personal computer.  
-3. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.  
-4. [Download Microsoft Office](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d36122f9db719740f032f1f51d9619f2) for free, using UVA's license.
-5. For lab techs and postdocs:
+1. [Sign up for UVA alerts](https://uvaemergency.virginia.edu/uva-alerts).
+2. [Check the New to UVA IT checklist](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=4bfbe33cdbde5f405bce5478dc9619ff).  Note: staff do not need to download Endpoint, request administrative access to UVA Workday, or set up an office phone, unless instructed by me.   
+3. [Set up Wi-Fi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=24c5c491db095b084f32fb671d9619a0) (eduoroam) on your personal computer.
+4. [Set up Duo](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=ed7cf747db3ac744f032f1f51d961993) for UVA's 2-factor authentication.  
+5. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.  
+6. [Download Microsoft Office](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d36122f9db719740f032f1f51d9619f2) for free, using UVA's license.
+7. For lab techs and postdocs:
   a. [Complete the Central Academic Onboarding](https://hr.virginia.edu/employment-uva/central-academic-onboarding)
 
 #### For fun  
