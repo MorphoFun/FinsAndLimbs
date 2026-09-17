@@ -37,9 +37,9 @@
 2. [Create a UVA email signature](https://brand.virginia.edu/templates-resources/digital/email-signatures), so you can show your UVA affiliation.   
 3. [Sign up for Free Food Alert](https://sustainability.virginia.edu/free-food-alert) to help reduce food waste (and obviously get free food).
 4. [Sign up for the UVA EEB listserv](https://www.eebvirginia.org/events).
-5. For lab techs and postdocs:
-  a. [Attend Hoos well fitness classes for free](https://rec.virginia.edu/active/fitness/hoos-well).
-  b. [Earn up to $500](https://hr.virginia.edu/well-being/earn-rewards) by completing tasks with Hoos Well through Personify Health. 
+5. For lab techs and postdocs:  
+  a. [Attend Hoos well fitness classes for free](https://rec.virginia.edu/active/fitness/hoos-well).  
+  b. [Earn up to $500](https://hr.virginia.edu/well-being/earn-rewards) by completing tasks with Hoos Well through Personify Health.  
 
 [▲ Back to Top](#table-of-contents)  
 <br>  
