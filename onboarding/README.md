@@ -30,7 +30,8 @@
 5. [Download the VPN](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0), so you can access UVA resources (e.g., journal subscriptions) when you are off campus.  
 6. [Download Microsoft Office](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d36122f9db719740f032f1f51d9619f2) for free, using UVA's license.
 7. Check the bus routes and schedules [UVA](https://parking.virginia.edu/transitroutes) and around the [broader Charlottesville area](https://www.charlottesville.gov/481/CAT-Schedules-Maps).    
-8. For lab techs and postdocs:  
+8. [Activate your mobile ID](https://idoffice.virginia.edu/mobile-id) on your phone for tap access into labs, offices, and buildings.   
+9. For lab techs and postdocs:  
   a. [Complete the Central Academic Onboarding](https://hr.virginia.edu/employment-uva/central-academic-onboarding)
 
 #### For fun  
