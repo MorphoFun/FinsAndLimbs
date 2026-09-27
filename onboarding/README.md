@@ -118,7 +118,7 @@ Connecting to the lab server through a web browser is convenient when you want t
    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
 9. **PC (Windows) users**  
     - Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
-    - The path to the shared network folder is \\10.8.0.1\Research_LabFiles
+    - The path to the shared network folder is \\\10.8.0.1\Research_LabFiles
     - Enter the username and password that was assigned to you in a separate email from Dr. Kawano.  
  
 [▲ Back to Top](#table-of-contents)
