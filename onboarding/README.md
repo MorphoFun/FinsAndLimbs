@@ -67,10 +67,11 @@ If you will be working with live vertebrate animals, you must also be an approve
 2. Access the online [Animal Handler Access Portal](https://compliance.research.virginia.edu/about/training/animal-research/animal-research-online-training)
 3. At the top of your Animal Handler profile, click on "Training Records & Facilities"
 4. Complete the modules listed under "MUST COMPLETE the following training modules", which should include:
+   -  Animal Facility - Animal Rules and Procedures
    -  Animal Research - UVA Working Safely with Animals
    -  Animal Research - UVA Orientation Seminar
    -  Animal Research - AALAS-ALL UVA-Orientation to the Animal Care and Use Program
-   -  Animal Research - AALAS-ALL UVA Refresher for Animal Handlers
+   -  Animal Research - AALAS-ALL UVA Refresher for Animal Handlers (when you're renewing your training)
    -  Animal Research - AALAS-ALL UVA Introduction to Wildlife
    -  Animal Research - AALAS-ALL Introduction to Fish
    -  Animal Research - AALAS-ALL Introduction to Amphibians
