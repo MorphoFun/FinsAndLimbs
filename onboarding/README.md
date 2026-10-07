@@ -72,7 +72,7 @@ If you will be working with live vertebrate animals, you must also be an approve
    -  Animal Research - UVA Orientation Seminar
    -  Animal Research - AALAS-ALL UVA-Orientation to the Animal Care and Use Program
    -  Animal Research - AALAS-ALL UVA Refresher for Animal Handlers (when you're renewing your training)
-   -  Animal Research - [AALAS-ALL UVA Introduction to Wildlife]([https://aalaslearninglibrary.org/app/library/course/4446](https://sso.aalaslearninglibrary.org/Shibboleth.sso/Login?entityID=urn:mace:incommon:virginia.edu&target=https://sso.aalaslearninglibrary.org/Auth/Logon?courseid=4446))
+   -  Animal Research - [AALAS-ALL UVA Introduction to Wildlife](https://sso.aalaslearninglibrary.org/Shibboleth.sso/Login?entityID=urn:mace:incommon:virginia.edu&target=https://sso.aalaslearninglibrary.org/Auth/Logon?courseid=4446)
    -  Animal Research - AALAS-ALL Introduction to Fish
    -  Animal Research - AALAS-ALL Introduction to Amphibians
 6. Complete your RRMHA - Research Related Medical Health Assessment. Answers to the following questions about the work environment are:
