@@ -1,4 +1,9 @@
-
+**Travel funding for conferences**
+1. University of Virginia  - for undergraduate students  
+   a. [College of Arts and Sciences - Small Research and Travel Grants:](https://college.as.virginia.edu/small-research-and-travel-grants) due November 15 and March 15   
+   b. [Undergraduate Research Network - Conference Grant:](https://undergraduateresearch.virginia.edu/urn-conference-grants) due October 1 and April 1  
+   
+<br>
 
 **Summer programs for undergraduates**
 - [Directory of Research Experiences for Undergraduates (REU) programs](https://deeps.northwestern.edu/undergraduate/further-opportunities/summer-programs-and-internships/nsf-reu.html)
