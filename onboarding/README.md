@@ -112,7 +112,7 @@ Connecting to the lab server through a web browser is convenient when you want t
 4. Click connect, and then type in the username and password that you created when logging onto the lab server through your web browser
 5. A window will pop up saying "Missing external certificate". Click on the button "Add Certificate", and then click on the dial next to "Require External Certificate" so the icon changes from mostly blue with white circle to mostly white with blue circle. Click Save Changes.
 6. On the left hand side, click on the icon with three horizontal lines and then click on Settings.
-7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer is on.
+7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer starts up.
 8. **Apple (MacOS) users**  
     - Start with the instructions under  "Access your storage system from a Mac computer" on the following link: [https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac](https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac)
    - The SMB path is SMB://10.8.0.1/Research_LabFiles
