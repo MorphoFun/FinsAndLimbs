@@ -12,7 +12,7 @@
    a. [Connecting to a printer](#it-connecting-to-a-printer)  
    b. [Connecting to the lab server](#it-connecting-to-the-lab-server)  
    c. [Mapping the lab server to your computer](#it-mapping-the-lab-server-to-your-computer)  
-   d. [How to create Google-like docs with Synology](#it-how-to-create-google-like-docs-with-synology)  
+   d. [Syncing files with Synology Drive Client](#it-syncing-files-with-Synology-Drive-Client)  
 <br>
 
 ---
@@ -47,7 +47,7 @@
 <br>  
 
 ### Training
-#### Training: General Lab
+#### Training: General lab
 Before working in the research lab, you must complete the following training modules and then email Dr. Kawano when you are done. Additional training modules may be required depending on your research project. 
 1. [Chemical Safety and Waste Training for Research Personnel & Students](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=O4.KOPWTZDFDT)
 2. [Chemical Safety - Formaldehyde Awareness](https://researchcompliance.web.virginia.edu/training_html5/home.cfm?navigationKey=K693.4.74K9ANEWV234PUFNA) 
@@ -113,11 +113,12 @@ Connecting to the lab server through a web browser is convenient when you want t
 5. A window will pop up saying "Missing external certificate". Click on the button "Add Certificate", and then click on the dial next to "Require External Certificate" so the icon changes from mostly blue with white circle to mostly white with blue circle. Click Save Changes.
 6. On the left hand side, click on the icon with three horizontal lines and then click on Settings.
 7. Click on Launch Preferences, and then make sure that "Launch at Startup" is turned off (click on the icon so it becomes mostly white with a blue circle on the left). This prevents OpenVPN from logging onto the server whenever your computer starts up.
-8. **Apple (MacOS) users**  
+8. **Note:** You will likey need to restart your computer for OpenVPN before proceeding to the next steps.
+9. **Apple (MacOS) users**  
     - Start with the instructions under  "Access your storage system from a Mac computer" on the following link: [https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac](https://kb.synology.com/en-br/DSM/tutorial/access_nas_from_mac)
    - The SMB path is SMB://10.8.0.1/Research_LabFiles
    - Enter the username and password that was assigned to you in a separate email from Dr. Kawano
-9. **PC (Windows) users**  
+10. **PC (Windows) users**  
     - Follow the instructions on [https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows](https://kb.netgear.com/19864/How-do-I-map-a-network-drive-in-Windows).
     - The path to the shared network folder is \\\10.8.0.1\Research_LabFiles
     - Enter the username and password that was assigned to you in a separate email from Dr. Kawano.  
@@ -125,16 +126,11 @@ Connecting to the lab server through a web browser is convenient when you want t
 [▲ Back to Top](#table-of-contents)
 <br>  
 
-#### IT: How to create Google-like docs with Synology
-Missing Google Docs / Slides / Spreadsheet? Synology doesn't directly connect to Google Drive, but we can create similar documents through Synology Office.
-Instructions provided by Google AI Overview and [https://www.youtube.com/watch?v=QTInhv8esXs](https://www.youtube.com/watch?v=QTInhv8esXs).
-1. Log into the lab server.
-2. Open the Package Center.    
-3. Search for and install Synology Drive Server (which contains the web interface).  
-4. Install Synology Office from the Package Center to access web-based document, spreadsheet, and slide editors.
-6. Open the Synology Drive app by clicking on the Main Menu (the grid icon on the top-left corner of the browser).
-7. Navigate to the folder where you want to create a new document. 
-8. Click the + Create button, and select Document to start typing and collaborating securely through our lab server.  
+#### IT: Syncing files with Synology Drive Client
+Mapped network drives don't use space on your local hard drive, but it's a double-edged sword. You save space on your computer because files in the mapped network drive are accessed by connecting to our lab server rather than storing the them directly on your hard drive. However, you must be connected to the server to access the files (i.e., no files when the WiFi is down) and files may be slow to load because each one must be individually requested from the server as needed. The latter is a huge problem when we're loading large image stacks when segmenting micro-CT scans or digitizing high-speed video files that are often >1GB each!  
+<br>
+If you loading speeds and offline access to files are high priorities and you have enough hard drive space, consider using Synology Drive Client instead. Synology Drive Client is kind of like Google Drive in that both allow you to synchronize folders on your local hard drive to some remote file storage system (e.g., lab server, cloud storage). Refer to the [Synology Drive Quick Start Guide for users](https://kb.synology.com/en-us/DSM/tutorial/Quick_Start_Synology_Drive_users) for further details.   
+
 
 [▲ Back to Top](#table-of-contents)
 <br>  
