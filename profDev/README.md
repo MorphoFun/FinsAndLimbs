@@ -1,7 +1,7 @@
 **Travel funding for conferences**
 1. University of Virginia  - for undergraduate students  
    a. [College of Arts and Sciences - Small Research and Travel Grants:](https://college.as.virginia.edu/small-research-and-travel-grants) due November 15 and March 15   
-   b. [Undergraduate Research Network - Conference Grant:](https://undergraduateresearch.virginia.edu/urn-conference-grants) due October 1 and April 1  
+   b. [Undergraduate Research Network - Conference Grant:](https://undergraduateresearch.virginia.edu/urn-conference-grants) due October 1 and April 1. Supports conferences occurring _after_ the respective deadline.
    
 <br>
 
